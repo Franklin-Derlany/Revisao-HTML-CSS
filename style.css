@@ -1,0 +1,49 @@
+body {
+    background-color: darkslateblue;
+    color: aliceblue;
+    margin-left: 16px;
+}
+
+h1 {
+    width: 300px;
+    font-size: 1em;
+    padding: 10px;
+    border: solid 2px cornsilk; 
+    font-family: 'Segoe UI';
+}
+
+h2 {
+    color: rgb(246, 116, 138);
+}
+
+h3 {
+    color: lime;
+}
+
+.listas {
+    width: 340px;
+    border: solid 2px chocolate;
+    background-color: blueviolet;
+}
+
+.internet {
+    display: flex;
+    gap: 10px;
+    margin: 5px;
+    align-items: center;
+}
+
+.redes-sociais {
+   width: 40px;
+   height: 40px;
+}
+
+a {
+    color: aliceblue;
+    font-size: 16px;
+    font-family: tahoma;
+    text-decoration: none;
+}
+
+    
+
